@@ -1,0 +1,26 @@
+.featuredItem{
+    position: relative;
+}
+
+.featuredItem a{
+    text-decoration: none;
+}
+
+.featuredImage{
+    background-size: cover !important;
+    background-position: center !important;
+    height: 330px;
+    background-repeat: no-repeat;
+
+    display: grid;
+    justify-content: center;
+    align-content: flex-end;
+
+}
+
+.featuedCaption{
+    color: white;
+    font-size: 28px;
+    font-weight: 300;
+    padding: 20px;
+}

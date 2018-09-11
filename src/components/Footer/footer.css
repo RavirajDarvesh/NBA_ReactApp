@@ -1,0 +1,18 @@
+.footer {
+    display: flex;
+    background: #424242;
+    align-items: center;
+    justify-items: center;
+    /* margin-top: 2rem; */
+}
+
+.right {
+    color: white;
+    flex-grow: 1;
+    font-size: 14px;
+}
+
+.logo img {
+    width: 35px;
+    padding: 10px;
+}
